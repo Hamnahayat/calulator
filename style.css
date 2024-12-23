@@ -1,0 +1,42 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+.container-fluid{
+    background-color: rgb(83, 177, 231);
+    color: white;
+}
+.btn-outline-success{
+color:black;
+background-color:white;
+}
+.collapse-navbar{
+color: white;
+}
+.nav-link {
+
+    color: white;
+}   
+.link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.main-container{
+    border: 3px solid rgb(83, 177, 231) ;
+    background-color: rgb(83, 177, 231);
+}
+.container{
+    border: 3px solid rgb(252, 253, 253);
+    height: 600px;
+    background-color:rgb(83, 177, 231) ;
+    color: white;
+    padding-top: 10px;
+    margin-top: 10px;
+
+}
+.container h3{
+    color: rgb(17, 81, 155);
+}
